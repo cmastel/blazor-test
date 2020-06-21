@@ -1,0 +1,28 @@
+﻿[
+  {
+    "firstName": "Madeline",
+    "lastName": "Mastel",
+    "dob": "2008-12-27",
+    "role": "Participant",
+    "group": "Trail Blazers"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Mastel",
+    "dob": "2010-10-27",
+    "role": "Participant",
+    "group":  "Trail Blazers"
+  },
+  {
+    "firstName": "Chris",
+    "lastName": "Mastel",
+    "dob": "1978-12-12",
+    "role": "Parent"
+  },
+  {
+    "firstName": "Nicole",
+    "lastName": "Mastel",
+    "dob": "1977-10-26",
+    "role": "Parent"
+  }
+]

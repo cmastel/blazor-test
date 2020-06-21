@@ -1,0 +1,159 @@
+{
+  "FilesToCompress": [
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/SBEcaDxLeqxN5nOwE0rAbsZPNWWBVKcy1cpBJefgvYc=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/ClCalc.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/ClCalc.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/EAJwx7a-iqL4EiTF9el98EmcFyBfVGssAJjbHZvdHhs=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.AspNetCore.Components.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.AspNetCore.Components.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/PhqVUp4jyYFoJ5WKFIzCZHZwLVfaeyOkrXwl3JULnAk=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.AspNetCore.Components.Web.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/VShgaI2_HoKZHJO-lR94DkjKzPilbZuxS6F8xmxpKwE=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/jzHgXWAvWMkKIGFjZoT84tbe72E_H7CvTr-Dryh4QPs=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.Bcl.AsyncInterfaces.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/hK_0dugfNgS9V4TgV9EVtn70L8OQJIID7i2Xgpn9yKg=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.Extensions.Configuration.Abstractions.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/JAJERuXJudQ9gpn53CqCeflGayRlmojaFeWpyTiLAas=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.Extensions.Configuration.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Configuration.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/9mPw_q4bWZX0Z6aym1vMg6Iv2287zW64bwP1aZTOPNA=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.Extensions.Configuration.Json.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/6rZ2xavwCmpHoMMLNFy1LkBY3K-BUqlcM3H_AmJ7SOY=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/N_ctNEUOgfwqIRhljtEGN9H-23MYWed3dNB4Jjw29Z8=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.Extensions.DependencyInjection.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/lVR6YGovPVkyuE6RpSrOm1KTw4bDI7MjtgL_mvvE2RY=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.Extensions.Logging.Abstractions.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/oj9UKgEf3xXlQloESfPuRCi6Cn8Mw-UTyqlTlrVWK_A=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.Extensions.Logging.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Logging.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/0stswGsCmZWECsCyEk5X5qDbNNNDJEDjiYS3Mt2jQHA=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.Extensions.Options.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Options.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/dcPVUDxqoZO07wv-xL0yZ3l3NR6oq-kRQpNCaBlTN1c=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.Extensions.Primitives.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Primitives.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/GFqkJmxwbf7WMrZ_MCRzaOADzSsVQ9tcMrMt19fsEeo=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.JSInterop.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.JSInterop.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/UZa5CS19ZrbM6Csnl8CUIQucvmKMc4TughggTxKhx-I=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.JSInterop.WebAssembly.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/Qxq3Z1MH9ebRlMmu9yiezC3fK7jXBfTmclNdwzVUclc=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/mscorlib.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/mscorlib.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/DX-16No7yFQ_41Rc_fpCAbHpMQ8KywZ3834jydnKzJI=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/System.Core.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/System.Core.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/sE0DseLx4e8utklDbgN_vTY8uvZHBuvcYOJidT-F8AY=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/System.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/System.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/dD912vkEzN_YOOTSqVNu_4qh7XcUa9WOwa5q3J2Cr8U=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/System.Net.Http.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/System.Net.Http.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/bcO83AXJjsNv7BblEf48yt-A3m5p9aLpWR7Bvz4TmDU=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/System.Net.Http.Json.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/System.Net.Http.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/OJ4gFv5INfP_twH-d3sWodPBFHcqJIQYcm7YszbAExU=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/System.Net.Http.WebAssemblyHttpHandler.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/crDdM9v4v1CmbFdbZ0Lf1WiyMCif1PHhbgqRd11LZho=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/System.Runtime.CompilerServices.Unsafe.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/ZoID-Rnd-joIGqz9HwYBJ5DaoixTS4nAK1C6VdEbTnE=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/System.Text.Encodings.Web.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/System.Text.Encodings.Web.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/HszXGRUhoAZRJ-1roWNwDVIpjmhLUF1__11X-5G4XVM=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/System.Text.Json.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/System.Text.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/fkyJ5vsHHU9xOzuptvUMZ7gJQZWkk8Oxss6ATc7xTpY=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/linker\/WebAssembly.Bindings.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/WebAssembly.Bindings.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash",
+      "Source": "\/Users\/chris\/.nuget\/packages\/microsoft.aspnetcore.components.webassembly.runtime\/3.2.0\/tools\/dotnetwasm\/wasm\/dotnet.3.2.0.js",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/wasm\/dotnet.3.2.0.js.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash",
+      "Source": "\/Users\/chris\/.nuget\/packages\/microsoft.aspnetcore.components.webassembly.runtime\/3.2.0\/tools\/dotnetwasm\/wasm\/dotnet.timezones.dat",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/wasm\/dotnet.timezones.dat.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash",
+      "Source": "\/Users\/chris\/.nuget\/packages\/microsoft.aspnetcore.components.webassembly.runtime\/3.2.0\/tools\/dotnetwasm\/wasm\/dotnet.wasm",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/wasm\/dotnet.wasm.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/oU0moF6IIkna1pMoSD6Ze63s6aHfjCtUflz7xDmENPg=.hash",
+      "Source": "\/Users\/chris\/.nuget\/packages\/microsoft.aspnetcore.components.webassembly.build\/3.2.0\/tools\/blazor\/blazor.webassembly.js",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/blazor.webassembly.js.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/Q8olg10LuEduTj9MpHJr_hD9TQYeYqxXmLPyOy9mvas=.hash",
+      "Source": "\/Users\/chris\/development\/ClCalc\/obj\/Release\/netstandard2.1\/blazor\/blazor.boot.json",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/blazor.boot.json.br"
+    }
+  ]
+}
