@@ -1463,7 +1463,7 @@
       "outputPath": "/Users/chris/development/ClCalc/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/chris/.nuget/NuGet/NuGet.Config"
+        "/Users/chris/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
